@@ -2,8 +2,7 @@
 
 This project is part of the class "Advanced Parallel Systems". It is
 a fundamental subject for the [Master of Science in Informatics at
-Grenoble](https://mosig.imag.fr/) of the university [Grenoble INP
-- Ensimag](https://ensimag.grenoble-inp.fr/).
+Grenoble](https://mosig.imag.fr/) of the university [Grenoble INP-Ensimag](https://ensimag.grenoble-inp.fr/).
 
 ## Introduction
 
